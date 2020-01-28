@@ -1,0 +1,106 @@
+
+    
+MACHINE LEARNING / DEEP LEARNING / ARTIFICIAL INTELLIGENCE
+------------------------------------------------------------------
+- ARTIFICIAL INTELLIGENCE
+  Cortana , GoogleAssistant , Siri , Alexa
+  
+- MACHINE LEARNING
+  It is an approach to implement ARTIFICIAL INTELLIGENCE.
+  Google's search engine learns that users have spent a pretty good time on a web page , which means it is relevant result for given query and give it a vote up for future search. 
+  This result is then shown on first page depending on number of votes for smiilar queries.
+  However if an user spends a few seconds , it is not a relevant information for given query and give it a vote down for future search.
+  This result is moved down depending on number of votes for similar queries.
+  
+  - It enables machines to take decision on their own based on past data.
+  - Needs smaller amount of training data.
+  - Works well on low-end systems.
+  - Most features need to be identified in advance and manually coded.
+  - Problem is divided into parts and solved individually then combined.
+  - Testing takes longer.
+  - Crisp rules explain why a decision was taken.
+  
+- DEEP LEARNING
+  A subset of MACHINE LEARNING which uses artificial NEURAL NETWORKS.
+  A scenario where a black and white picture is turned into a colored picture.
+  It uses a model where it recognises people , objects in picture and assigns them a color.
+  
+  - It enables machines to take decisions with help of artificial NEURAL NETWORKS.
+  - Needs larger amount of training data.
+  - Needs high-end systems.
+  - Machine learns features from data it is provided with.
+  - Problem is solved in an end to end manner.
+  - Testing takes less time.
+  - Since system takes decisions based on it's own logic, reasoning may be difficult to interpret.
+  
+  
+  
+  
+AI  with  ML  with  Deep Learning
+-------------------------------------
+- A scenario where a printed book is translated to a digital form.
+  Translation of printed data to digital form using Deep Learning.
+  Digital data is analysed and tagged ie Text mining is done to determine genre using Machine Learning.
+  The book is identified using tagged genre using Artificial Intelligence.
+  
+  
+  
+  
+Types of AI
+-------------------------
+- Reactive Machines
+  systems that react , do not have memory and do not use any past experiences for new decision.
+  
+- Limited Memory
+  systems do look at past experiences but over a limited data set to categorize depending on certain parameters.
+  
+- Theory of Mind
+  syatems understand humans state of mind , decision making and act appropriately.
+  
+- Self Awareness
+  systems do understand their own internal states , predict and act appropriately.
+  
+  
+  
+  
+Types of MACHINE LEARNING
+-----------------------------
+- A technique where machines can learn , reason from past data to classify a new data.
+- A machine learning model is given an input (data) and returns an output , if it is correct it is accepted , else it is given back to machine for retraining.
+- Ways in which machine can learn:
+  1. SUPERVISED LEARNING
+     Machine learns from labeled data set where it knows features and labels associated with those features in a given data set. 
+     It is more like a key-value pair for data provided.
+     It is used to provide an output from given data set.
+     
+  2. UNSUPERVISED LEARNING
+     Machine learns from unlabeled data set which is plotted and then machine labels the clusters of this data.
+     Systems are able to identify hidden patterns from input data and make them organized to provide similarities , anomalities.
+     When new data point is provided it checks from labeled clusters and then add it to respective cluster.
+     It is used to determine patterns in given data set.
+     
+  3. REINFORCEMENT LEARNING
+     Also called reward based learning where machine learns from feedback (reward or punishment) provided.
+     
+- Which machine learning model/algorithm to use depends on:
+  - Problem statement
+  - Size, quality, nature of data
+  - Complexity of algorithm
+  
+- Machine Learning Algorithms
+  1. Classification
+     To predict outputs as "True/False" , "Yes/No" , "A/B"
+     - Decision Tree              - a graph that uses branching method to illustrate every possible outcome of a decision.
+     - Naive Bayes                - depending on probabilities of events
+     - Random Forest
+     - Logistic Regression
+     - KNN (K Nearest Neighbours) - depending on K (an integer) the unknown data point is assigned an organised or labelled cluster.
+     
+  2. Regression  (Supervised Learning)
+     To predict values (quantitative) , example : "Stock Price prediction"
+     - Linear regression          - a regression line is drawn such that D () is minimum and good predictions.
+     
+  3. Clustering  (Unsupervised Learning)
+     To find patterns from data and organize it , example : "Product recommendation"
+     - K Means
+  

@@ -55,7 +55,7 @@ Types of AI
   systems do look at past experiences but over a limited data set to categorize depending on certain parameters.
   
 - Theory of Mind
-  syatems understand humans state of mind , decision making and act appropriately.
+  systems understand humans state of mind , decision making and act appropriately.
   
 - Self Awareness
   systems do understand their own internal states , predict and act appropriately.
@@ -88,19 +88,31 @@ Types of MACHINE LEARNING
   - Complexity of algorithm
   
 - Machine Learning Algorithms
-  1. Classification
+  1. Classification    (Supervised Learning)
      To predict outputs as "True/False" , "Yes/No" , "A/B"
-     - Decision Tree              - a graph that uses branching method to illustrate every possible outcome of a decision.
+     - Decision Tree              - a graph that uses branching method to illustrate every possible outcome of a decision , more like a workflow
      - Naive Bayes                - depending on probabilities of events
      - Random Forest
      - Logistic Regression
      - KNN (K Nearest Neighbours) - depending on K (an integer) the unknown data point is assigned an organised or labelled cluster.
      
-  2. Regression  (Supervised Learning)
+  2. Regression        (Supervised Learning)
      To predict values (quantitative) , example : "Stock Price prediction"
-     - Linear regression          - a regression line is drawn such that D () is minimum and good predictions.
+     - Linear regression          - a regression line is drawn such that D (mean square error) is minimum and good predictions.
+     - Polynomial regression
      
-  3. Clustering  (Unsupervised Learning)
+  3. Clustering        (Unsupervised Learning)
      To find patterns from data and organize it , example : "Product recommendation"
-     - K Means
+     - K Means    
+     
+- Machine Learning Workflow
+  - Define Objective
+  - Prepare Data
+  - Collect Data
+  - Select Algorithm
+  - Train Model
+  - Test Model
+  - Predict
+  
+- Anaconda
   
